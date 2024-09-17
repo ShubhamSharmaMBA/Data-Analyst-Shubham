@@ -21,4 +21,13 @@ This project focused on automating data workflows related to student enrollments
    - **Amazon S3** was used as the primary storage for the datasets related to student enrollments and withdrawals.
 Screenshot: AWS Glue cataloging the datasets for the UCW Registrar Team
 
+**2. Descriptive Analysis**
+   - Generated detailed statistics on enrollment numbers, withdrawal rates, and trends over different semesters.
+   - Used **AWS Athena** to analyze student movements across different courses and departments, summarizing the most common reasons for withdrawal.
+   - Created regular reports for the Registrar team that provided insights into course enrollment rates, highlighting departments with higher-than-average withdrawals.
+Screenshot: AWS Athena SQL Queries for descriptive statistics
+
+
+
+
 
