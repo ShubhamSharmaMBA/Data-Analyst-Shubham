@@ -39,7 +39,9 @@ This project focused on automating data workflows related to student enrollments
    - Investigated issues related to data inconsistencies in student withdrawal records, ensuring that all records were complete and accurate.
    - Used **AWS CloudWatch** to monitor and log data flows, helping to identify bottlenecks or errors in the data processing pipeline.
    - Debugged discrepancies in enrollment numbers by cross-referencing student records with academic department data in **AWS Glue**.
-Screenshot: AWS CloudWatch logs for monitoring data flows
+
+![DA Process](https://raw.githubusercontent.com/ShubhamSharmaMBA/Data-Analyst-Shubham/main/images/Week%208%20CP%201.png)
+![DA Process](https://raw.githubusercontent.com/ShubhamSharmaMBA/Data-Analyst-Shubham/main/images/Week%209%20CP%201.png)
 
 **4. Data Wrangling**
    - Automated the transformation of raw enrollment and withdrawal data into a standardized format, making tracking student changes across terms easier.
