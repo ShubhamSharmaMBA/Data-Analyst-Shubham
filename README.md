@@ -168,6 +168,7 @@ ________________________________________
 **Timeline:**
 - Completed in 3 weeks.
 
+![UCW Process](https://raw.githubusercontent.com/ShubhamSharmaMBA/Data-Analyst-Shubham/refs/heads/main/images/Picture13.png)
 ________________________________________
 **Data Wrangling**
 
@@ -211,6 +212,7 @@ ________________________________________
 **Timeline:**
 - Completed in 1 week.
 
+![UCW Process](https://raw.githubusercontent.com/ShubhamSharmaMBA/Data-Analyst-Shubham/refs/heads/main/images/Picture14.png)
 ________________________________________
 **Data Quality Control**
 
@@ -262,13 +264,11 @@ ________________________________________
 **Timeline:**
 - Completed in 4 weeks.
 
+![UCW Process](https://raw.githubusercontent.com/ShubhamSharmaMBA/Data-Analyst-Shubham/refs/heads/main/images/Picture15.png)
+![UCW Process](https://raw.githubusercontent.com/ShubhamSharmaMBA/Data-Analyst-Shubham/refs/heads/main/images/Picture16.png)
+![UCW Process](https://raw.githubusercontent.com/ShubhamSharmaMBA/Data-Analyst-Shubham/refs/heads/main/images/Picture18.png)
+![UCW Process](https://raw.githubusercontent.com/ShubhamSharmaMBA/Data-Analyst-Shubham/refs/heads/main/images/Picture17.png)
 
-
-
-**6. Predictive Analysis**
-   - Used **Amazon SageMaker** for object detection, which can help analyze the documents submitted by students at the registrar's office, for example, detecting students' study permit expiry date. 
-
-![PA Process](https://raw.githubusercontent.com/ShubhamSharmaMBA/Data-Analyst-Shubham/main/images/Week%2010%20CP.png)
 
 
 
