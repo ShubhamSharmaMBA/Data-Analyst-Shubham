@@ -67,6 +67,11 @@ This project focused on automating data workflows related to student enrollments
 ![DQC Process](https://raw.githubusercontent.com/ShubhamSharmaMBA/Data-Analyst-Shubham/main/images/Week%207%20CP%202%20.png)
 
 
+**6. Predictive Analysis**
+   - Used **Amazon SageMaker** for object detection, which can help analyze the documents submitted by students at the registrar's office, for example, detecting students' study permit expiry date. 
+
+![PA Process](https://raw.githubusercontent.com/ShubhamSharmaMBA/Data-Analyst-Shubham/main/images/Week%2010%20CP.png)
+
 
 
 
