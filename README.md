@@ -58,9 +58,14 @@ This project focused on automating data workflows related to student enrollments
    - Built error-checking mechanisms to detect anomalies, such as duplicate withdrawals or incorrect enrollment statuses, triggering automated alerts for corrections.
    - Used **AWS CloudTrails** for loging user information
    - Established periodic data audits to continuously monitor the health of the student data and ensure that enrollment and withdrawal data were accurate and actionable for decision-makers.
+   - Used **AWS KMS** for encrpyting the data
+   - Used S3 replication rules for data backup
 
 ![DQC Process](https://raw.githubusercontent.com/ShubhamSharmaMBA/Data-Analyst-Shubham/main/images/Week%208%20CP%201.png)
 ![DQC Process](https://raw.githubusercontent.com/ShubhamSharmaMBA/Data-Analyst-Shubham/main/images/Week%209%20CP%203.png)
+![DQC Process](https://raw.githubusercontent.com/ShubhamSharmaMBA/Data-Analyst-Shubham/main/images/Week%207%20CP%201.png)
+![DQC Process](https://raw.githubusercontent.com/ShubhamSharmaMBA/Data-Analyst-Shubham/main/images/Week%207%20CP%202%20.png)
+
 
 
 
