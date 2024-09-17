@@ -20,10 +20,9 @@ This project focused on automating data workflows related to student enrollments
    - Used **AWS Athena** to perform initial data profiling, identifying enrollment period peaks and withdrawal reasons trends.
    - **Amazon S3** was used as the primary storage for the datasets related to student enrollments and withdrawals.
 
-[https://github.com/ShubhamSharmaMBA/Data-Analyst-Shubham/blob/5f4bc5d633f36cd2a4df29a05b30a87c1926b21b/Week%202%20CP%201.png?raw=true](https://raw.githubusercontent.com/ShubhamSharmaMBA/Data-Analyst-Shubham/5f4bc5d633f36cd2a4df29a05b30a87c1926b21b/Week%202%20CP%201.png)
+![EDA Process](https://github.com/ShubhamSharmaMBA/Data-Analyst-Shubham/blob/5f4bc5d633f36cd2a4df29a05b30a87c1926b21b/Week%202%20CP%201.png)
 
 
-Screenshot: AWS Glue cataloging the datasets for the UCW Registrar Team
 
 **2. Descriptive Analysis**
    - Generated detailed statistics on enrollment numbers, withdrawal rates, and trends over different semesters.
