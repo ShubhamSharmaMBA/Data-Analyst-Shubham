@@ -273,14 +273,204 @@ ________________________________________
 ________________________________________
 ________________________________________
 
+**Project 2**: **City of Vancouver Property Tax Report Generation**
 
 
+The City of Vancouver's property tax department faced delays and errors in manual report generation. This project automated the collection and reporting of property tax data using AWS services like Glue, EC2, and CloudTrail. Key activities involved cleaning and consolidating tax payment records, conducting diagnostic analysis of delinquent payments, and implementing data quality control to ensure accurate and timely report generation. The project improved tax collection efficiency and provided actionable insights into payment trends.
 
 
+**Exploratory Data Analysis (EDA)**
 
 
+**Project Description:** The City of Vancouver struggled with manual property tax report generation, leading to delays and errors. This project focused on automating tax report generation and performing exploratory data analysis to identify trends in tax payments.
+
+**Project Title:** Exploratory Analysis of Vancouver Property Tax Payments
+
+**Objective:** Perform exploratory analysis on property tax payment data to uncover delinquency and payment compliance patterns.
+
+**Background:** The City of Vancouver’s property tax department relied on manual processes for generating reports, resulting in delays. The project aimed to streamline report generation using AWS and uncover insights on payment behavior.
+
+**Scope:** This project involved analyzing historical tax payment data to identify payment compliance and delinquency trends.
+
+**Dataset:**
+- Property IDs
+- Tax Payment Records
+- Delinquency Data
+
+**Methodology:**
+   1. **Data Collection and Cleaning**:
+      - AWS Glue was used to clean and prepare tax payment data.
+      - Data was stored in Amazon S3 for analysis.
+   2. **Exploratory Analysis**:
+      - AWS EC2 was used to run scripts to analyze tax payment trends and delinquency rates.
+
+**Tools and Technologies:**
+- **AWS Glue**: For ETL
+- **AWS EC2**: For analysis
+- **Amazon S3**: For data storage
+
+**Deliverables:** 
+- A report detailing tax payment trends and delinquency rates.
+
+**Timeline:**
+- Completed in 2 weeks.
+
+________________________________________
+
+**Descriptive Analysis**
+
+**Project Description:** Descriptive analysis provided insights into overall tax payments and delinquency patterns across Vancouver’s districts.
+
+**Project Title:** Descriptive Analysis of Vancouver Property Tax Payments
+
+**Objective:** Summarize key tax payment statistics to identify high-risk regions and delinquency patterns.
+
+**Background:** The City of Vancouver needed to understand payment compliance across various districts to improve tax collection strategies.
+
+**Scope:** This phase involved summarizing tax payment data by district and identifying delinquency rates.
+
+**Dataset:**
+- Tax payment history
 
 
+**Methodology:**
+   1. **Data Aggregation**:
+         - AWS Glue was used to aggregate payment data across districts.
+   2. **Statistical Analysis**:
+         - AWS EC2 was used to calculate delinquency rates and payment compliance.
+   3.	**Data Visualization:**
+         - AWS EC2 is for the general server, and the web server is for information sharing and data visualization.
+         - AWS Athena is used to query the table and data export.
+   4.	**Insights and Findings:**
+         - Based on the descriptive analysis, the average current land value for strata decreased in 2024 compared to 2023
+   5.	**Recommendations:**
+         - The average current land value drop needs further analysis to find the root cause of the average price drop in 2024 for Strata Legal Type. 
+
+**Tools and Technologies:**
+- **AWS Glue**: For data aggregation
+- **AWS EC2**: For analysis
+- **AWS Athena**: For querying the data
+
+**Deliverables:**
+- A report summarizing tax payments and delinquency patterns with actionable insights.
+
+**Timeline:**
+- Completed in 4 weeks.
+
+________________________________________
+
+**Diagnostic Analysis**
+
+
+**Project Description:** Diagnostic analysis was conducted to investigate the causes behind delayed or missing tax payments in specific regions.
+
+**Project Title:** Diagnostic Analysis of Vancouver Property Tax Delinquencies
+
+**Objective:** Diagnose the underlying factors behind delayed property tax payments in Vancouver.
+
+**Background:** The City of Vancouver experienced high delinquency rates in specific areas, prompting an investigation to uncover the causes.
+
+**Scope:** This phase identified correlations between property type, location, and payment delays.
+
+**Dataset:**
+- Delinquency records
+- Property data
+
+**Methodology:**
+   1. **Correlation Analysis**:
+         - AWS EC2 ran diagnostic scripts to identify trends in delinquent payments.
+   2. **Auditing**:
+         - AWS CloudTrail was enabled to monitor and audit access to payment records.
+
+
+**Tools and Technologies:**
+- **AWS EC2**: For diagnostic analysis
+- **AWS CloudTrail**: For auditing
+
+**Deliverables:**
+A report outlining the causes of delinquent payments, with recommendations for improving compliance.
+
+**Timeline:**
+- Completed in 3 weeks.
+
+________________________________________
+
+**Data Wrangling**
+
+**Project Description**: Property tax data needed to be cleaned and standardized before generating automated reports. This phase focused on data wrangling to ensure accuracy and consistency.
+
+**Project Title**: Property Tax Data Wrangling for Reporting
+
+**Objective:** Clean and standardize property tax records to ensure accurate report generation.
+
+**Background:** The City of Vancouver’s property tax data contained inconsistencies, necessitating a data wrangling phase before generating reports.
+
+**Scope:** This phase involved cleaning and consolidating property tax records.
+
+**Dataset:**
+- Property tax payment records
+
+**Methodology:**
+   1. **Data Cleaning**:
+         - AWS Glue was used to clean and standardize the data for further processing.
+   2. **Data Transformation**:
+         - The cleaned data was stored in Amazon S3 for further analysis.
+
+
+**Tools and Technologies:**
+ - **AWS Glue**: For data cleaning
+ - **Amazon S3**: For data storage
+
+**Deliverables:**
+- A clean, well-structured dataset ready for automated report generation.
+
+**Timeline:**
+- Completed in 1 week.
+
+________________________________________
+
+**Data Quality Control**
+
+**Project Description**: Ensuring the accuracy of tax data was essential to the City of Vancouver’s tax report generation process. This phase focused on implementing data quality control measures.
+
+**Project Title**: Ensuring Data Integrity in Property Tax Reports
+
+**Objective**: Implement data quality control to ensure the accuracy and reliability of property tax reports.
+
+**Background**: The City of Vancouver’s tax data required auditing and validation to ensure accuracy.
+
+**Scope**: This phase included validating property tax records and auditing any changes.
+
+**Dataset**:
+- Property tax records
+
+**Methodology:**
+   1. **Auditing**:
+         - AWS CloudTrail was used to monitor changes to property tax records.
+   2. **Validation**:
+         - AWS EC2 ran validation scripts to check for discrepancies.
+   3.	**Encryption:**
+         - AWS KMS created the key to encrypt the S3 bucket for data protection.
+   4.	**Replication:**
+         - AWS S3 replication rule for data backup.
+   5.	**Monitor and Control:**
+         - AWS CloudWatch to monitor and control resource utilization.
+
+
+**Tools and Technologies:**
+- **AWS CloudTrail**: For auditing
+- **AWS Glue**: For data privacy and accuracy
+- **AWS KMS**: Encryption key
+- **AWS S3**: For replication rule
+- **AWS CloudWatch**: To monitor and control AWS resources
+
+**Deliverables:**
+- A data quality report ensuring accuracy in property tax records.
+
+**Timeline:**
+- Completed in 3 weeks.
+
+________________________________________
 
 
 
