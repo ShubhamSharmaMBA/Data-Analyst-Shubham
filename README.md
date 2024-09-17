@@ -48,7 +48,13 @@ This project focused on automating data workflows related to student enrollments
    - Developed ETL pipelines using **AWS Glue Studio** to ensure seamless integration of student data from various sources, including the university’s internal databases and external data systems.
    - **AWS Lambda** was used to trigger specific data transformations and handle real-time data updates related to enrollments and withdrawals.
    - All cleaned and processed data was securely stored in **Amazon S3** for further analysis and reporting.
-Screenshot: AWS Glue Studio ETL pipeline for data transformation
+
+![DW Process](https://raw.githubusercontent.com/ShubhamSharmaMBA/Data-Analyst-Shubham/main/images/DP%201%20-%20ETL%20pipelines%20-%20Draw%201.png)
+![DW Process](https://raw.githubusercontent.com/ShubhamSharmaMBA/Data-Analyst-Shubham/main/images/DP%201%20-%20ETL%20pipelines%20-%20Draw%202.png)
+![DW Process](https://raw.githubusercontent.com/ShubhamSharmaMBA/Data-Analyst-Shubham/main/images/DP%201%20-%20ETL%20pipelines%20-%20Draw%203.png)
+![DW Process](https://raw.githubusercontent.com/ShubhamSharmaMBA/Data-Analyst-Shubham/main/images/DP%201%20-%20ETL%20pipelines%20-%20AWS%20Glue.png)
+
+
 
 **5. Data Quality Control**
    - Implemented quality control measures in **AWS Glue** to validate data consistency, ensuring that all student enrollment and withdrawal records were up-to-date.
