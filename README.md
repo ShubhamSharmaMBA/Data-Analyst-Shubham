@@ -315,6 +315,11 @@ The City of Vancouver's property tax department faced delays and errors in manua
 **Timeline:**
 - Completed in 2 weeks.
 
+![UCW Process](https://raw.githubusercontent.com/ShubhamSharmaMBA/Data-Analyst-Shubham/refs/heads/main/images/Picture20.png)
+![UCW Process](https://raw.githubusercontent.com/ShubhamSharmaMBA/Data-Analyst-Shubham/refs/heads/main/images/Picture21.png)
+![UCW Process](https://raw.githubusercontent.com/ShubhamSharmaMBA/Data-Analyst-Shubham/refs/heads/main/images/Picture22.png)
+![UCW Process](https://raw.githubusercontent.com/ShubhamSharmaMBA/Data-Analyst-Shubham/refs/heads/main/images/Picture23.png)
+
 ________________________________________
 
 **Descriptive Analysis**
@@ -357,6 +362,13 @@ ________________________________________
 **Timeline:**
 - Completed in 4 weeks.
 
+![UCW Process](https://raw.githubusercontent.com/ShubhamSharmaMBA/Data-Analyst-Shubham/refs/heads/main/images/Picture24.png)
+![UCW Process](https://raw.githubusercontent.com/ShubhamSharmaMBA/Data-Analyst-Shubham/refs/heads/main/images/Picture25.png)
+![UCW Process](https://raw.githubusercontent.com/ShubhamSharmaMBA/Data-Analyst-Shubham/refs/heads/main/images/Picture26.png)
+![UCW Process](https://raw.githubusercontent.com/ShubhamSharmaMBA/Data-Analyst-Shubham/refs/heads/main/images/Picture27.png)
+![UCW Process](https://raw.githubusercontent.com/ShubhamSharmaMBA/Data-Analyst-Shubham/refs/heads/main/images/Picture28.png)
+![UCW Process](https://raw.githubusercontent.com/ShubhamSharmaMBA/Data-Analyst-Shubham/refs/heads/main/images/Picture29.png)
+
 ________________________________________
 
 **Diagnostic Analysis**
@@ -393,6 +405,8 @@ A report outlining the causes of delinquent payments, with recommendations for i
 **Timeline:**
 - Completed in 3 weeks.
 
+![UCW Process](https://raw.githubusercontent.com/ShubhamSharmaMBA/Data-Analyst-Shubham/refs/heads/main/images/Picture30.png)
+
 ________________________________________
 
 **Data Wrangling**
@@ -426,6 +440,8 @@ ________________________________________
 
 **Timeline:**
 - Completed in 1 week.
+
+![UCW Process](https://raw.githubusercontent.com/ShubhamSharmaMBA/Data-Analyst-Shubham/refs/heads/main/images/Picture31.png)
 
 ________________________________________
 
@@ -469,6 +485,14 @@ ________________________________________
 
 **Timeline:**
 - Completed in 3 weeks.
+
+![UCW Process](https://raw.githubusercontent.com/ShubhamSharmaMBA/Data-Analyst-Shubham/refs/heads/main/images/Picture32.png)
+![UCW Process](https://raw.githubusercontent.com/ShubhamSharmaMBA/Data-Analyst-Shubham/refs/heads/main/images/Picture33.png)
+![UCW Process](https://raw.githubusercontent.com/ShubhamSharmaMBA/Data-Analyst-Shubham/refs/heads/main/images/Picture34.png)
+![UCW Process](https://raw.githubusercontent.com/ShubhamSharmaMBA/Data-Analyst-Shubham/refs/heads/main/images/Picture35.png)
+![UCW Process](https://raw.githubusercontent.com/ShubhamSharmaMBA/Data-Analyst-Shubham/refs/heads/main/images/Picture36.png)
+![UCW Process](https://raw.githubusercontent.com/ShubhamSharmaMBA/Data-Analyst-Shubham/refs/heads/main/images/Picture37.png)
+
 
 ________________________________________
 
