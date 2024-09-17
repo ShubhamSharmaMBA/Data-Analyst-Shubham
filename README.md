@@ -109,35 +109,50 @@ ________________________________________
 
 
 ________________________________________
-Diagnostic Analysis
-Project Description:
-The diagnostic analysis focused on identifying the underlying causes of high withdrawal rates in specific courses and academic sessions.
-Project Title:
-Diagnostic Analysis of UCW Withdrawal Rates
-Objective:
-Identify the key factors driving high withdrawal rates at UCW, with a focus on student demographics and course difficulty.
-Background:
-Some courses at UCW had higher-than-average withdrawal rates, prompting an investigation into potential causes.
-Scope:
-The analysis focused on diagnosing the causes of withdrawals by correlating withdrawal data with student demographics and academic calendar timing.
-Dataset:
-•	Student demographics
-•	Course enrolment and withdrawal records
-Methodology:
-1.	Data Collection:
-o	AWS Glue was used to gather relevant data for analysis.
-2.	Correlation Analysis:
-o	AWS EC2 ran a correlation analysis to identify relationships between course difficulty and student withdrawals.
-3.	Auditing:
-o	AWS CloudTrail was used to track and audit changes to student records for compliance.
-Tools and Technologies:
-•	AWS Glue: For data collection
-•	AWS EC2: For correlation analysis
-•	AWS CloudTrail: For auditing
-Deliverables:
-•	A diagnostic report with recommendations for reducing withdrawal rates based on key findings.
-Timeline:
-•	Completed in 3 weeks.
+**Diagnostic Analysis**
+
+
+**Project Description:** The diagnostic analysis focused on identifying the underlying causes of high withdrawal rates in specific courses and academic sessions.
+
+
+**Project Title:** Diagnostic Analysis of UCW Withdrawal Rates
+
+
+**Objective:** Identify the key factors driving high withdrawal rates at UCW, focusing on student demographics and course difficulty.
+
+
+**Background:** Some courses at UCW had higher-than-average withdrawal rates, prompting an investigation into potential causes.
+
+
+**Scope:** The analysis focused on diagnosing the causes of withdrawals by correlating withdrawal data with student demographics and academic calendar timing.
+
+
+**Dataset:**
+- Student demographics
+- Course enrolment and withdrawal records
+
+
+**Methodology:**
+   1.	Data Collection:
+         - AWS Glue was used to gather relevant data for analysis.
+   2.	Correlation Analysis:
+         - AWS EC2 ran a correlation analysis to identify relationships between course difficulty and student withdrawals.
+   3.	Auditing:
+         - AWS CloudTrail was used to track and audit changes to student records for compliance.
+
+
+**Tools and Technologies:**
+- **AWS Glue:** For data collection
+- **AWS EC2:** For correlation analysis
+- **AWS CloudTrail:** For auditing
+
+
+**Deliverables:**
+- A diagnostic report with recommendations for reducing withdrawal rates based on key findings.
+
+
+**Timeline:**
+- Completed in 3 weeks.
 
 ________________________________________
 Data Wrangling
