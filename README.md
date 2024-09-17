@@ -27,8 +27,11 @@ This project focused on automating data workflows related to student enrollments
 
 **2. Descriptive Analysis**
    - Generated detailed statistics on enrollment numbers, withdrawal rates, and trends over different semesters.
-   - Used **AWS Athena** to analyze student movements across different courses and departments, summarizing the most common reasons for withdrawal.
+   - Used **AWS Athena** to analyze student movements across different courses and departments, calculating the enrollment rate.
    - Created regular reports for the Registrar team that provided insights into course enrollment rates, highlighting departments with higher-than-average withdrawals.
+   - Used **AWS EC2** for information sharing and publishing the reports.
+![EDA Process](https://raw.githubusercontent.com/ShubhamSharmaMBA/Data-Analyst-Shubham/main/images/Week%203%20CP%201.png)
+
 Screenshot: AWS Athena SQL Queries for descriptive statistics
 
 **3. Diagnostic Analysis**
