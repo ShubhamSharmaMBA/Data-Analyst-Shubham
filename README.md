@@ -39,8 +39,7 @@ This project focused on automating the enrolment and withdrawal processes at the
    1.	**Data Collection and Preparation:**
          - AWS Glue was used to extract and clean student records.
          - Data was stored in Amazon S3 for analysis.
-         - AWS Athena for Data query.
-   3.	**Descriptive Statistics:**
+   2.	**Descriptive Statistics:**
          - AWS EC2 computed summary statistics on enrolment and withdrawal trends.
          - Visualization was done using EC2 Web Server to identify seasonal variations.
 
@@ -57,6 +56,10 @@ This project focused on automating the enrolment and withdrawal processes at the
 
 **Timeline:**
 •	Completed in 2 weeks.
+
+![UCW Process](https://raw.githubusercontent.com/ShubhamSharmaMBA/Data-Analyst-Shubham/refs/heads/main/images/Picture1.png)
+![UCW Process](https://raw.githubusercontent.com/ShubhamSharmaMBA/Data-Analyst-Shubham/refs/heads/main/images/Picture2.png)
+![UCW Process](https://raw.githubusercontent.com/ShubhamSharmaMBA/Data-Analyst-Shubham/refs/heads/main/images/Picture3.png)
 
 ________________________________________
 **Descriptive Analysis**
@@ -90,6 +93,7 @@ ________________________________________
          - AWS EC2 ran scripts to calculate key statistics, such as average enrolment per semester and withdrawal rates.
    3.	**Data Visualization:**
          - AWS EC2 is for the general server, and the web server is for information sharing and data visualization.
+         - AWS Athena is used to query the table and data export.
    4.	**Insights and Findings:**
          - Based on the descriptive analysis, the average enrollment rate for 2022 and 2024 is less than that of other years.
    5.	**Recommendations:**
@@ -99,6 +103,7 @@ ________________________________________
 **Tools and Technologies:**
 - **AWS Glue**: For data processing and cleaning
 - **AWS EC2**: For statistical analysis, information processing, and visualization
+- **AWS Athena**: For querying the data
 
 
 **Deliverables:**
@@ -108,7 +113,15 @@ ________________________________________
 **Timeline:**
 - Completed in 4 weeks.
 
-
+![UCW Process](https://raw.githubusercontent.com/ShubhamSharmaMBA/Data-Analyst-Shubham/refs/heads/main/images/Picture5.png)
+![UCW Process](https://raw.githubusercontent.com/ShubhamSharmaMBA/Data-Analyst-Shubham/refs/heads/main/images/Picture6.png)
+![UCW Process](https://raw.githubusercontent.com/ShubhamSharmaMBA/Data-Analyst-Shubham/refs/heads/main/images/Picture7.png)
+![UCW Process](https://raw.githubusercontent.com/ShubhamSharmaMBA/Data-Analyst-Shubham/refs/heads/main/images/Picture8.png)
+![UCW Process](https://raw.githubusercontent.com/ShubhamSharmaMBA/Data-Analyst-Shubham/refs/heads/main/images/Picture19.png)
+![UCW Process](https://raw.githubusercontent.com/ShubhamSharmaMBA/Data-Analyst-Shubham/refs/heads/main/images/Picture9.png)
+![UCW Process](https://raw.githubusercontent.com/ShubhamSharmaMBA/Data-Analyst-Shubham/refs/heads/main/images/Picture10.png)
+![UCW Process](https://raw.githubusercontent.com/ShubhamSharmaMBA/Data-Analyst-Shubham/refs/heads/main/images/Picture11.png)
+![UCW Process](https://raw.githubusercontent.com/ShubhamSharmaMBA/Data-Analyst-Shubham/refs/heads/main/images/Picture12.png)
 ________________________________________
 **Diagnostic Analysis**
 
