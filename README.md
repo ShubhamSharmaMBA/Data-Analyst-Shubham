@@ -133,11 +133,11 @@ ________________________________________
 
 
 **Methodology:**
-   1.	Data Collection:
+   1.	**Data Collection:**
          - AWS Glue was used to gather relevant data for analysis.
-   2.	Correlation Analysis:
+   2.	**Correlation Analysis:**
          - AWS EC2 ran a correlation analysis to identify relationships between course difficulty and student withdrawals.
-   3.	Auditing:
+   3.	**Auditing:**
          - AWS CloudTrail was used to track and audit changes to student records for compliance.
 
 
@@ -155,68 +155,98 @@ ________________________________________
 - Completed in 3 weeks.
 
 ________________________________________
-Data Wrangling
-Project Description:
-Data wrangling was necessary to ensure all student records were clean, consistent, and ready for further analysis.
-Project Title:
-Data Wrangling for UCW Enrolment Data
-Objective:
-Clean and organize student enrolment and withdrawal data for analysis.
-Background:
-Due to inconsistencies in student data, a data wrangling phase was required to clean and standardize the records.
-Scope:
-This phase focused on cleaning, standardizing, and consolidating student records.
-Dataset:
-•	Raw enrolment and withdrawal records
-•	Course registration data
-Methodology:
-1.	Data Cleaning:
-o	AWS Glue was used to clean student data, remove duplicates, and handle missing values.
-2.	Data Transformation:
-o	The cleaned data was stored in Amazon S3 for further analysis.
-Tools and Technologies:
-•	AWS Glue: For data cleaning
-•	Amazon S3: For data storage
-Deliverables:
-•	A clean and consolidated dataset ready for analysis.
-Timeline:
-•	Completed in 1 week.
+**Data Wrangling**
+
+
+**Project Description:** Data wrangling was necessary to ensure all student records were clean, consistent, and ready for further analysis.
+
+
+**Project Title:** Data Wrangling for UCW Enrolment Data
+
+
+**Objective:** Clean and organize student enrolment and withdrawal data for analysis.
+
+
+**Background:** Due to inconsistencies in student data, a data wrangling phase was required to clean and standardize the records.
+
+
+**Scope:** This phase focused on cleaning, standardizing, and consolidating student records.
+
+
+**Dataset:**
+- Raw enrolment and withdrawal records
+- Course registration data
+
+
+**Methodology:**
+   1.	**Data Cleaning:**
+         - AWS Glue was used to clean student data, remove duplicates, and handle missing values.
+   2.	**Data Transformation:**
+         - The cleaned data was stored in Amazon S3 for further analysis.
+
+
+**Tools and Technologies:**
+- **AWS Glue**: For data cleaning
+- **Amazon S3**: For data storage
+
+
+**Deliverables:**
+- A clean and consolidated dataset ready for analysis.
+
+
+**Timeline:**
+- Completed in 1 week.
 
 ________________________________________
-Data Quality Control
-Project Description:
-Ensuring data quality was critical to maintaining the integrity of UCW’s student records. This phase focused on implementing quality control measures to audit and validate student data.
-Project Title:
-Data Quality Control for UCW Registrar
-Objective:
-Implement data quality control measures to ensure the accuracy of student enrolment records.
-Background:
-Given the reliance on manual data entry in the past, it was important to audit and validate student records to ensure accuracy.
-Scope:
-This phase included auditing student records, validating data accuracy, and ensuring compliance with university policies.
-Dataset:
-•	Enrolment and withdrawal records
-Methodology:
-1.	Auditing:
-o	AWS CloudTrail was used to audit changes made to student records.
-2.	Validation:
-o	AWS Glue ran validation scripts to ensure data accuracy and privacy.
-3.	Encryption:
-o	AWS KMS created the key to encrypt the S3 bucket for data protection.
-4.	Replication:
-o	AWS S3 replication rule for data backup.
-5.	Monitor and Control:
-o	AWS CloudWatch to monitor and control resource utilization.
-Tools and Technologies:
-•	AWS CloudTrail: For auditing
-•	AWS Glue: For data privacy and accuracy
-•	AWS KMS: Encryption key
-•	AWS S3: For replication rule
-•	AWS CloudWatch: To monitor and control AWS resources
-Deliverables:
-•	A report summarizing data quality results and ongoing monitoring systems.
-Timeline:
-•	Completed in 4 weeks.
+**Data Quality Control**
+
+
+**Project Description:** Ensuring data quality was critical to maintaining the integrity of UCW’s student records. This phase focused on implementing quality control measures to audit and validate student data.
+
+
+**Project Title:** Data Quality Control for UCW Registrar
+
+
+**Objective:** Implement data quality control measures to ensure the accuracy of student enrolment records.
+
+
+**Background:** Given the reliance on manual data entry in the past, it was important to audit and validate student records to ensure accuracy.
+
+
+**Scope:** This phase included auditing student records, validating data accuracy, and ensuring compliance with university policies.
+
+
+**Dataset:**
+- Enrolment and withdrawal records
+
+
+**Methodology:**
+   1.	**Auditing:**
+         - AWS CloudTrail was used to audit changes made to student records.
+   2.	**Validation:**
+         - AWS Glue ran validation scripts to ensure data accuracy and privacy.
+   3.	**Encryption:**
+         - AWS KMS created the key to encrypt the S3 bucket for data protection.
+   4.	**Replication:**
+         - AWS S3 replication rule for data backup.
+   5.	**Monitor and Control:**
+         - AWS CloudWatch to monitor and control resource utilization.
+
+
+**Tools and Technologies:**
+- **AWS CloudTrail**: For auditing
+- **AWS Glue**: For data privacy and accuracy
+- **AWS KMS**: Encryption key
+- **AWS S3**: For replication rule
+- **AWS CloudWatch**: To monitor and control AWS resources
+
+
+**Deliverables:**
+- A report summarizing data quality results and ongoing monitoring systems.
+
+
+**Timeline:**
+- Completed in 4 weeks.
 
 
 
