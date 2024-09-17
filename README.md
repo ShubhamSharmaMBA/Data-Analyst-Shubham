@@ -39,6 +39,7 @@ This project focused on automating the enrolment and withdrawal processes at the
    1.	**Data Collection and Preparation:**
          - AWS Glue was used to extract and clean student records.
          - Data was stored in Amazon S3 for analysis.
+         - AWS Athena for Data query.
    3.	**Descriptive Statistics:**
          - AWS EC2 computed summary statistics on enrolment and withdrawal trends.
          - Visualization was done using EC2 Web Server to identify seasonal variations.
