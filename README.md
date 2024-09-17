@@ -58,41 +58,54 @@ This project focused on automating the enrolment and withdrawal processes at the
 •	Completed in 2 weeks.
 
 ________________________________________
-Descriptive Analysis
-Project Description:
-A descriptive analysis of enrolment and withdrawal data was conducted to provide a high-level summary of student trends and behavior.
-Project Title:
-Descriptive Analysis of UCW Enrolment and Withdrawal Statistics
-Objective:
-Summarize key statistics on student enrolment and withdrawal data to provide actionable insights.
-Background:
-UCW needed to understand how enrolment and withdrawal rates varied across different academic sessions and departments to allocate resources efficiently.
-Scope:
-This project phase summarized historical enrolment and withdrawal data by academic year and department.
-Dataset:
-•	Enrolment records
-•	Withdrawal requests
-•	Demographic information
-Methodology:
-1.	Data Aggregation:
-o	AWS Glue was used to aggregate enrolment data over several years.
-2.	Descriptive Statistics:
-o	AWS EC2 ran scripts to calculate key statistics, such as average enrolment per semester and withdrawal rates.
-3.	Data Visualization:
-o	AWS EC2 for General Server and Web Server for information sharing and data visualization.
-4.	Insights and Findings:
-o	Based on the descriptive analysis, the average enrollment rate for 2022 and 2024 is less than that of other years.
-5.	Recommendations:
-o	The drop in the enrollment rate needs further analysis to find the root cause of the fewer enrollments during 2022 and 2024. 
+**Descriptive Analysis**
 
 
-Tools and Technologies:
-•	AWS Glue: For data processing and cleaning
-•	AWS EC2: For statistical analysis, information processing, and visualization
-Deliverables:
-•	A report summarizing enrolment trends, including key statistics and visual summaries.
-Timeline:
-•	Completed in 4 weeks.
+**Project Description:** A descriptive analysis of enrolment and withdrawal data was conducted to summarize student trends and behavior.
+
+
+**Project Title:** Descriptive Analysis of UCW Enrolment and Withdrawal Statistics
+
+
+**Objective:** Summarize key student enrolment and withdrawal data statistics to provide actionable insights.
+
+
+**Background:** UCW needed to understand how enrolment and withdrawal rates varied across different academic sessions and departments to allocate resources efficiently.
+
+
+**Scope:** This project phase summarized historical enrolment and withdrawal data by academic year and department.
+
+
+**Dataset:**
+- Enrolment records
+- Withdrawal requests
+- Demographic information
+
+
+**Methodology:**
+   1.	**Data Aggregation:**
+         - AWS Glue was used to aggregate enrolment data over several years.
+   2.	**Descriptive Statistics:**
+         - AWS EC2 ran scripts to calculate key statistics, such as average enrolment per semester and withdrawal rates.
+   3.	**Data Visualization:**
+         - AWS EC2 is for the general server, and the web server is for information sharing and data visualization.
+   4.	**Insights and Findings:**
+         - Based on the descriptive analysis, the average enrollment rate for 2022 and 2024 is less than that of other years.
+   5.	**Recommendations:**
+         - The drop in the enrollment rate needs further analysis to find the root cause of the fewer enrollments during 2022 and 2024. 
+
+
+**Tools and Technologies:**
+- **AWS Glue**: For data processing and cleaning
+- **AWS EC2**: For statistical analysis, information processing, and visualization
+
+
+**Deliverables:**
+- A report summarizing enrolment trends, including key statistics and visual summaries.
+
+
+**Timeline:**
+- Completed in 4 weeks.
 
 
 ________________________________________
