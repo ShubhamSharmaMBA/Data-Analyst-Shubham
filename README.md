@@ -20,7 +20,8 @@ This project focused on automating data workflows related to student enrollments
    - Used **AWS Athena** to perform initial data profiling, identifying enrollment period peaks and withdrawal reasons trends.
    - **Amazon S3** was used as the primary storage for the datasets related to student enrollments and withdrawals.
 
-![EDA Process](https://github.com/ShubhamSharmaMBA/Data-Analyst-Shubham/blob/5f4bc5d633f36cd2a4df29a05b30a87c1926b21b/Week%202%20CP%201.png)
+![EDA Process](https://raw.githubusercontent.com/ShubhamSharmaMBA/Data-Analyst-Shubham/main/images/Week%202%20CP%201.png)
+
 
 
 
