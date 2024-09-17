@@ -27,6 +27,25 @@ Screenshot: AWS Glue cataloging the datasets for the UCW Registrar Team
    - Created regular reports for the Registrar team that provided insights into course enrollment rates, highlighting departments with higher-than-average withdrawals.
 Screenshot: AWS Athena SQL Queries for descriptive statistics
 
+**3. Diagnostic Analysis**
+   - Investigated issues related to data inconsistencies in student withdrawal records, ensuring that all records were complete and accurate.
+   - Used **AWS CloudWatch** to monitor and log data flows, helping to identify bottlenecks or errors in the data processing pipeline.
+   - Debugged discrepancies in enrollment numbers by cross-referencing student records with academic department data in **AWS Glue**.
+Screenshot: AWS CloudWatch logs for monitoring data flows
+
+**4. Data Wrangling**
+   - Automated the transformation of raw enrollment and withdrawal data into a standardized format, making it easier to track student changes across terms.
+   - Developed ETL pipelines using **AWS Glue Studio** to ensure seamless integration of student data from various sources, including the university’s internal databases and external data systems.
+   - **AWS Lambda** was used to trigger specific data transformations and handle real-time data updates related to enrollments and withdrawals.
+   - All cleaned and processed data was securely stored in **Amazon S3** for further analysis and reporting.
+Screenshot: AWS Glue Studio ETL pipeline for data transformation
+
+**5. Data Quality Control**
+   - Implemented quality control measures in **AWS Glue** to validate data consistency, ensuring that all student enrollment and withdrawal records were up-to-date.
+   - Built error-checking mechanisms to detect anomalies, such as duplicate withdrawals or incorrect enrollment statuses, triggering automated alerts for corrections.
+   - Established periodic data audits to continuously monitor the health of the student data and ensure that enrollment and withdrawal data were accurate and actionable for decision-makers.
+Screenshot: AWS Glue error-checking mechanism for data quality control
+
 
 
 
