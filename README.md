@@ -21,8 +21,8 @@ This project focused on automating data workflows related to student enrollments
    - **Amazon S3** was used as the primary storage for the datasets related to student enrollments and withdrawals.
 
 ![EDA Process](https://raw.githubusercontent.com/ShubhamSharmaMBA/Data-Analyst-Shubham/main/images/Week%202%20CP%201.png)
-
-
+![EDA Process](https://raw.githubusercontent.com/ShubhamSharmaMBA/Data-Analyst-Shubham/main/images/Week%202%20CP%202.png)
+![EDA Process](https://raw.githubusercontent.com/ShubhamSharmaMBA/Data-Analyst-Shubham/main/images/Week%203%20CP%201.png)
 
 
 **2. Descriptive Analysis**
