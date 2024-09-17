@@ -4,9 +4,7 @@
 
 This repository highlights my experience designing and implementing AWS Cloud data analytics platforms. The projects include:
 
-**Project 1**
-
-**UCW Registrar Enrolment and Withdrawal**
+**Project 1**: **UCW Registrar Enrolment and Withdrawal**
 
 
 This project focused on automating the enrolment and withdrawal processes at the University Canada West (UCW). By leveraging many AWS services, such as Glue, EC2, and CloudTrail, the project improved the efficiency and accuracy of student record management. Key tasks included data wrangling, exploratory analysis of enrolment trends, and implementing data quality control measures to ensure compliance and accuracy in student records. This automation reduced manual errors and provided real-time insights into enrolment patterns.
