@@ -1,6 +1,6 @@
 # Data-Analyst-Shubham
 
-Data Analytics Projects on AWS Cloud
+**Data Analytics Projects on AWS Cloud**
 This repository highlights my experience designing and implementing AWS Cloud data analytics platforms. The projects include:
 
 UCW Registrar Team – Automating and optimizing workflows for student enrollment and withdrawals.
