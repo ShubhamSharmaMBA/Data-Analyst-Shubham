@@ -19,7 +19,7 @@ This project focused on automating the enrolment and withdrawal processes at the
 **Project Title:** Exploratory Analysis of UCW Enrolment and Withdrawal Patterns
 
 
-**Objective:** To explore student enrolment and withdrawal trends using AWS services to uncover insights that help UCW optimize resources and improve student retention strategies**.
+**Objective:** To explore student enrolment and withdrawal trends using AWS services to uncover insights that help UCW optimize resources and improve student retention strategies.
 
 
 **Background:** Manual processing of enrolments and withdrawals at UCW was causing delays and errors. The university wanted to automate the data handling process and use exploratory data analysis to identify patterns in student behavior.
