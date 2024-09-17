@@ -19,6 +19,7 @@ This project focused on automating data workflows related to student enrollments
    - Utilized **AWS Glue** to organize and catalog data from various sources, including real-time data on student admissions and withdrawals.
    - Used **AWS Athena** to perform initial data profiling, identifying enrollment period peaks and withdrawal reasons trends.
    - **Amazon S3** was used as the primary storage for the datasets related to student enrollments and withdrawals.
+Week 2 CP 1.png
 
 Screenshot: AWS Glue cataloging the datasets for the UCW Registrar Team
 
