@@ -34,7 +34,7 @@ Screenshot: AWS Athena SQL Queries for descriptive statistics
 Screenshot: AWS CloudWatch logs for monitoring data flows
 
 **4. Data Wrangling**
-   - Automated the transformation of raw enrollment and withdrawal data into a standardized format, making it easier to track student changes across terms.
+   - Automated the transformation of raw enrollment and withdrawal data into a standardized format, making tracking student changes across terms easier.
    - Developed ETL pipelines using **AWS Glue Studio** to ensure seamless integration of student data from various sources, including the university’s internal databases and external data systems.
    - **AWS Lambda** was used to trigger specific data transformations and handle real-time data updates related to enrollments and withdrawals.
    - All cleaned and processed data was securely stored in **Amazon S3** for further analysis and reporting.
@@ -45,6 +45,16 @@ Screenshot: AWS Glue Studio ETL pipeline for data transformation
    - Built error-checking mechanisms to detect anomalies, such as duplicate withdrawals or incorrect enrollment statuses, triggering automated alerts for corrections.
    - Established periodic data audits to continuously monitor the health of the student data and ensure that enrollment and withdrawal data were accurate and actionable for decision-makers.
 Screenshot: AWS Glue error-checking mechanism for data quality control
+
+**6. Data Security and Compliance**
+   - Highlight how data was securely managed and stored using **Amazon S3** with appropriate access controls and encryption policies, ensuring the security of sensitive student data.
+   - Discuss any measures taken to comply with regulatory requirements for handling sensitive data, such as encryption in transit and at rest.
+Screenshot: AWS S3 security configurations
+
+**7. Backup and Disaster Recovery**
+   - Highlight how **AWS S3** was leveraged to ensure reliable backups of critical datasets, such as regular backups of student enrollment data.
+   - Mention any disaster recovery protocols or procedures you set up to recover data in case of system failure or corruption.
+Screenshot: Backup configurations and recovery protocols in S3
 
 
 
