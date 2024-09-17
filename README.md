@@ -122,6 +122,7 @@ ________________________________________
 ![UCW Process](https://raw.githubusercontent.com/ShubhamSharmaMBA/Data-Analyst-Shubham/refs/heads/main/images/Picture10.png)
 ![UCW Process](https://raw.githubusercontent.com/ShubhamSharmaMBA/Data-Analyst-Shubham/refs/heads/main/images/Picture11.png)
 ![UCW Process](https://raw.githubusercontent.com/ShubhamSharmaMBA/Data-Analyst-Shubham/refs/heads/main/images/Picture12.png)
+
 ________________________________________
 **Diagnostic Analysis**
 
@@ -169,6 +170,7 @@ ________________________________________
 - Completed in 3 weeks.
 
 ![UCW Process](https://raw.githubusercontent.com/ShubhamSharmaMBA/Data-Analyst-Shubham/refs/heads/main/images/Picture13.png)
+
 ________________________________________
 **Data Wrangling**
 
@@ -213,6 +215,7 @@ ________________________________________
 - Completed in 1 week.
 
 ![UCW Process](https://raw.githubusercontent.com/ShubhamSharmaMBA/Data-Analyst-Shubham/refs/heads/main/images/Picture14.png)
+
 ________________________________________
 **Data Quality Control**
 
